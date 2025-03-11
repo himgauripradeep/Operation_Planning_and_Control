@@ -15,17 +15,17 @@ Welcome to the **MasterChef Bot** documentation. Here, you will find details abo
 
 ## **2. Flowchart**
 <div style="text-align: center;">
-    <img src="docs/flowchart.png" alt="Flowchart" width="600" />
+    <img src="docs/flowchart.png" alt="Flowchart" width="400" />
 </div>
 
 ## **3. Entity-Relationship Diagram**
 <div style="text-align: center;">
-    <img src="docs/er-diagram.png" alt="ER Diagram"/>
+    <img src="docs/er-diagram.png" alt="ER Diagram" width="600"/>
 </div>
 
 ## **4. UML Class Diagram**
 <div style="text-align: center;">
-    <img src="docs/uml-diagram.png" alt="UML Diagram" width="90%" />
+    <img src="docs/uml-diagram.png" alt="UML Diagram" width="100%" />
 </div>
 
 ---
