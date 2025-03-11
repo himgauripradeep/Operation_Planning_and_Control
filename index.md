@@ -30,6 +30,3 @@ Welcome to the **MasterChef Bot** documentation. Here, you will find details abo
 
 ---
 
-## **5. Repository Structure**
-
-## **6. Setup GitHub Pages**
