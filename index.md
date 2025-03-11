@@ -25,7 +25,7 @@ Welcome to the **MasterChef Bot** documentation. Here, you will find details abo
 
 ## **4. UML Class Diagram**
 <div style="text-align: center;">
-    <img src="docs/uml-diagram.png" alt="UML Diagram" />
+    <img src="docs/uml-diagram.png" alt="UML Diagram" width="90%" />
 </div>
 
 ---
