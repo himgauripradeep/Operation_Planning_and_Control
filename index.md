@@ -14,14 +14,22 @@ Welcome to the **MasterChef Bot** documentation. Here, you will find details abo
 [Click here for BOM details](docs/bom.md)
 
 ## **2. Flowchart**
-![Flowchart](docs/flowchart.png)
+<div style="text-align: center;">
+    <img src="docs/flowchart.png" alt="Flowchart" width="600" />
+</div>
 
 ## **3. Entity-Relationship Diagram**
-![ER Diagram](docs/er-diagram.png)
+<div style="text-align: center;">
+    <img src="docs/er-diagram.png" alt="ER Diagram" width="600" />
+</div>
 
 ## **4. UML Class Diagram**
-![UML Diagram](docs/uml-diagram.png)
+<div style="text-align: center;">
+    <img src="docs/uml-diagram.png" alt="UML Diagram" width="600" />
+</div>
 
 ---
 
 ## **5. Repository Structure**
+
+## **6. Setup GitHub Pages**
