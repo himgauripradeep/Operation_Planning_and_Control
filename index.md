@@ -7,8 +7,6 @@ Welcome to the **MasterChef Bot** documentation. Here, you will find details abo
 - [Flowchart](docs/flowchart.png)
 - [Entity-Relationship Diagram (ER Diagram)](docs/er-diagram.png)
 - [UML Class Diagram](docs/uml-diagram.png)
-- [Repository Structure](#repository-structure)
-- [Setup GitHub Pages](#setting-up-github-pages)
 
 ## **1. Bill of Materials (BOM)**
 [Click here for BOM details](docs/bom.md)
